@@ -1,0 +1,7 @@
+C:\Users\luan.rfelipe\source\repos\faixa etaria\faixa etaria\bin\Debug\faixa etaria.exe.config
+C:\Users\luan.rfelipe\source\repos\faixa etaria\faixa etaria\bin\Debug\faixa etaria.exe
+C:\Users\luan.rfelipe\source\repos\faixa etaria\faixa etaria\bin\Debug\faixa etaria.pdb
+C:\Users\luan.rfelipe\source\repos\faixa etaria\faixa etaria\obj\Debug\faixa etaria.csproj.AssemblyReference.cache
+C:\Users\luan.rfelipe\source\repos\faixa etaria\faixa etaria\obj\Debug\faixa etaria.csproj.CoreCompileInputs.cache
+C:\Users\luan.rfelipe\source\repos\faixa etaria\faixa etaria\obj\Debug\faixa etaria.exe
+C:\Users\luan.rfelipe\source\repos\faixa etaria\faixa etaria\obj\Debug\faixa etaria.pdb
